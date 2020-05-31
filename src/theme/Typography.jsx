@@ -4,6 +4,12 @@ export default {
         fontSize:"3rem",
         fontFamily: "'Montserrat Alternates', sans-serif",
     },
+    h4:{
+        fontWeight: 500,
+        fontSize:"1.5rem",
+        fontFamily: "'Montserrat Alternates', sans-serif",
+
+    },
     h5: {
         fontWeight: 500,
         fontSize:"1.25rem",
